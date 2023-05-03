@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 
-Before you can begin, you need to have [`gcloud`](https://cloud.google.com/sdk/docs/install), [`kubectl`](https://kubernetes.io/docs/tasks/tools/), and [`helm`](https://helm.sh/docs/intro/install/) installed, plust a Google Cloud project in which you are authenticated.
+Before you can begin, you need to have [`gcloud`](https://cloud.google.com/sdk/docs/install), [`kubectl`](https://kubernetes.io/docs/tasks/tools/), and [`helm`](https://helm.sh/docs/intro/install/) installed, plus a Google Cloud project in which you are authenticated.
 
 ## Steps
 
